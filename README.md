@@ -2,8 +2,11 @@
 Ideas written down
 
 ## GPS Friend Searcher
-1. Friend search
-2. Chat
-3. Place to sit down search
+1. Find nearby user using GPS and map
+2. Chat with stangers
+3. Place to sit down (safe) search
 4. Topic generator
-5. Camera
+5. Detact silence and regenerate topic
+6. Emergency exit
+7. Share experiences and memories.
+
