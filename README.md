@@ -1,0 +1,2 @@
+# Idea
+Ideas written down
