@@ -10,3 +10,8 @@ Ideas written down
 6. Emergency exit
 7. Share experiences and memories.
 
+## Ping pong racket (Table Tennis)
+1. Table Tennis Device
+2. Sound
+3. Light
+4. Friction
