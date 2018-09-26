@@ -15,3 +15,13 @@ Ideas written down
 2. Sound
 3. Light
 4. Friction
+
+## New libraries
+1. BigDecimal
+
+## New apps
+1. Scratch for music/video playing
+2. Emotion recognition
+   台灣資測會 POST 59.124.69.148:10000/upload_image { img: (image) }
+   GET 59.124.69.148:10000/get_edu_ai_data/(id)
+   ** Include full face! Appropriate lighting! **
